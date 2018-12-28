@@ -5,8 +5,9 @@ package com.company;
  */
 public class BinarySearch {
 
-    //数字版
+
     public static void number() throws InterruptedException {
+        //需要查找的数
         int ran = (int) Math.floor(Math.random() * 10000000 + 1);
 
         //中间
@@ -53,11 +54,6 @@ public class BinarySearch {
             Thread.sleep(1000);
 
         }
-    }
-
-    //数组版
-    public static void array() {
-        int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
     }
 
     public static void main(String[] args) {
