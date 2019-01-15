@@ -1,0 +1,4 @@
+此项目为算法项目，各种算法都在此：
+1.二分查找法         文件:BinarySearch.java
+2.斐波那契数列        文件：FibonacciSequence.java
+3.计算100以内的素数    文件：Lessthan100PrimeNumber.java
